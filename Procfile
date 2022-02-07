@@ -1,1 +1,1 @@
-worker1: npm i ffmpeg && npm i @adiwajshing/baileys/ && bash install.sh && npm start
+worker1: npm i ffmpeg && npm i @adiwajshing/baileys/ && npm i && npm start
